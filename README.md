@@ -1,4 +1,4 @@
-![Raffeki Cover](assets/cover.png)
+![Raffeki Cover](assets/Cover.png)
 
 # 🌟 Raffeki UI Design
 
