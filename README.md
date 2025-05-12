@@ -2,7 +2,7 @@
 
 # 🌟 Raffeki UI Design
 
-Welcome to the **Rafeeqi** design showcase! A modern, responsive interface focused on usability, clean aesthetics, and a seamless user experience.
+Welcome to the **Raffeki** design showcase! A modern, responsive interface focused on usability, clean aesthetics, and a seamless user experience.
 
 ## 🔗 Live Design Links
 
