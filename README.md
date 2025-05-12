@@ -1,3 +1,5 @@
+![Rafeeqi Cover](assets/cover.png)
+
 # 🌟 Raffeki UI Design
 
 Welcome to the **Rafeeqi** design showcase! A modern, responsive interface focused on usability, clean aesthetics, and a seamless user experience.
